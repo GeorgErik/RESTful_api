@@ -1,11 +1,11 @@
-# Project Title
+# RESTful api
 
 RESTful api for searching similar word from database using levenshtein algorithm
 
 ### Installing
 
-For running this api with XAMPP on your local machine, pull this git into your xampp/htdocs folder
-Open your phpmyadmin in browser and import api.sql
+For running this api with XAMPP on your local machine, pull this git into your xampp/htdocs folder,
+open your phpmyadmin in browser and import api.sql
 
 ## Deployment
 
